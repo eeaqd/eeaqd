@@ -1,4 +1,4 @@
-![Banner](src/image_banner.jpeg)
+![Banner](src/image_banner.png)
 
 ## Hello everyone 👋
 
