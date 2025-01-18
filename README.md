@@ -9,4 +9,5 @@ Main site [eeaq.xyz](https://eeaq.xyz), where you can also see my stacks, a shor
 
 - 💻 This is usually the most commonly used programming language: `react`, `javasript/typescript`, `mongodb`, `nestjs`;
 - 📝 For writing documentation, notes, and a place where I write it all: `nvim`, `vscode`, `cloudAI`, `.md`;<br>
-  💭 You can ping me to contact me about collaboration, or how to develop a design, or how to develop it as I stack it;
+
+💭 You can ping me to contact me about collaboration, or how to develop a design, or how to develop it as I stack it;
